@@ -26,17 +26,17 @@ The files below are the **original coursework artifacts** created across the sem
 
 | Lab | Original work and evidence | Role in the consulting recommendation |
 | --- | --- | --- |
-| [Lab 2: Tableau](Lab-2-Tableau/) | Superstore and WOC Tableau packaged workbooks (`.twbx`), original reflection and WOC consulting memo | Evidence of receipt and reconciliation exceptions; basis for management dashboard recommendations |
-| [Lab 3: Thunkable](Lab-3-Thunkable/) | Employee-directory and WOC expense-submission app screenshots, app links, reflection and memo | Illustrates structured digital expense intake and a receipt reminder |
-| [Lab 7: LedgerFlow](Lab-7-LedgerFlow/) | Three runnable HTML website versions, screenshots, and report | Demonstrates a related accounts-payable process improving through validation, duplicate controls, approval steps, and status visibility |
-| [Lab 8: AI Assistant](Lab-8-AI-Assistant/) | Denver Broncos AI assistant report with four tested social-media scenarios | Transferable demonstration of structured AI inputs, knowledge grounding, human review, and test limitations, **not** an accounting bot deployed at WOC |
-| [Lab 10: AI Sourcing](Lab-10-AI-Sourcing/) | Decathlon image-classification pilot and outsourcing proposal, model/test screenshots, candidate review | Transferable method for evaluating AI feasibility, weak evidence, governance, pilot costs, and build-versus-outsource decisions, **not** a WOC-trained model |
+| [Lab 2: Tableau](Lab-2/) | Superstore and WOC Tableau packaged workbooks (`.twbx`), original reflection and WOC consulting memo | Evidence of receipt and reconciliation exceptions; basis for management dashboard recommendations |
+| [Lab 3: Thunkable](Lab-3/) | Employee-directory and WOC expense-submission app screenshots, app links, reflection and memo | Illustrates structured digital expense intake and a receipt reminder |
+| [Lab 7: LedgerFlow](Lab-7/) | Three runnable HTML website versions, screenshots, and report | Demonstrates a related accounts-payable process improving through validation, duplicate controls, approval steps, and status visibility |
+| [Lab 8: AI Assistant](Lab-8/) | Denver Broncos AI assistant report with four tested social-media scenarios | Transferable demonstration of structured AI inputs, knowledge grounding, human review, and test limitations, **not** an accounting bot deployed at WOC |
+| [Lab 10: AI Sourcing](Lab-10/) | Decathlon image-classification pilot and outsourcing proposal, model/test screenshots, candidate review | Transferable method for evaluating AI feasibility, weak evidence, governance, pilot costs, and build-versus-outsource decisions, **not** a WOC-trained model |
 
 ## How to examine the evidence
 
 - **Tableau:** Open the `.twbx` files in a compatible Tableau application. The packaged WOC workbook includes the dataset used in Lab 2.
 - **Lab 3 prototypes:** The original report includes screenshots and links for both Thunkable apps. [Employee directory app](https://x.thunkable.com/copy/c870a585cbaeea63d12d91d3278af2c7) and [WOC expense app](https://x.thunkable.com/copy/ba8e235886848dbbaad060671a6dae5b).
-- **Lab 7 interactive prototype:** Download and open `Lab-7-LedgerFlow/index_v3.html` in a browser. Drafts 1 and 2 are also included to document iteration. The prototype uses browser-side sample data, not a production accounting database or authenticated service.
+- **Lab 7 interactive prototype:** Download and open `Lab-7/index_v3.html` in a browser. Drafts 1 and 2 are also included to document iteration. The prototype uses browser-side sample data, not a production accounting database or authenticated service.
 - **Documents:** The PDF versions can be viewed directly on GitHub; the original `.docx` documents are preserved alongside them.
 - **AI lab evidence:** Read Lab 8 and Lab 10 as evidence of learning and methodology; neither original lab was designed for the WOC accounting case.
 
